@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "797141689169",
+    "firebase_url": "https://registration-41143.firebaseio.com",
+    "project_id": "registration-41143",
+    "storage_bucket": "registration-41143.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:797141689169:android:80be5b63511694fb",
+        "android_client_info": {
+          "package_name": "com.bloodbank.registration"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "797141689169-icg7f4sgu47v6il544lr5ermhv8o4d78.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "797141689169-icg7f4sgu47v6il544lr5ermhv8o4d78.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHoEO3CmspSvVouImjNGdPiVuKVmFhFFA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
